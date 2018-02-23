@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\LockD\\RjLocker\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\LockD\\RjLocker\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\LockD\\LockDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\LockD\\LockDemo\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\RjLocker\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\RjLocker\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

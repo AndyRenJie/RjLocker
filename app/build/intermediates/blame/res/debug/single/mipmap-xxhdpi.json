@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\RjLocker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "F:\\RjLocker\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\LockD\\LockDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "F:\\LockD\\LockDemo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\LockD\\RjLocker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "F:\\LockD\\RjLocker\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

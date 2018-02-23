@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\LockD\\LockDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\iphone5s.jpg",
+        "source": "F:\\LockD\\LockDemo\\app\\src\\main\\res\\mipmap-hdpi\\iphone5s.jpg"
+    },
+    {
+        "merged": "F:\\LockD\\RjLocker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\iphone5s.jpg",
+        "source": "F:\\LockD\\RjLocker\\app\\src\\main\\res\\mipmap-hdpi\\iphone5s.jpg"
+    },
+    {
+        "merged": "F:\\RjLocker\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\iphone5s.jpg",
+        "source": "F:\\RjLocker\\app\\src\\main\\res\\mipmap-hdpi\\iphone5s.jpg"
+    }
+]
